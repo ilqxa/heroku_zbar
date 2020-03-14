@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "zbar_pkg"
+exit 0
